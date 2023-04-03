@@ -1,5 +1,4 @@
 from typing import Any;
-from collection import deque;
 
 class FixedStack:
     class Empty(Exception):
