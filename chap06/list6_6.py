@@ -16,4 +16,3 @@ if __name__ == '__main__':
     print(x1);
     selection_sort(x2);
     print(x2);
-
